@@ -1,2 +1,2 @@
-# git_test
-Hello Odin!
+this is where i test git commands!
+
